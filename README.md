@@ -1,4 +1,7 @@
-<h1 align="center" style="text-align:center;line-height:10pt;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">How to run this solution</h1>
+<h1 align="center" style="text-align:center;line-height:10pt;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Binate Solutions Recruitment Task</h1>
+
+**Task Details**
+   - Write a script that takes this plain text file as an argument and downloads all images, storing them on the local hard disk.
 
 **Requirements**
    - Python 3
